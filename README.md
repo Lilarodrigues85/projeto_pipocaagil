@@ -1,2 +1,4 @@
-# projeto_pipocaagil
-Projeto de desenvolvimento ded uma página para um podcast
+# pipocaagil
+Repositório para desenvolvimento do projeto Pipoca Ágil
+
+ghtghdfgghfh
