@@ -1,0 +1,118 @@
+main {
+  display: flex;
+}
+
+#menu img{
+  width: 44px;
+  height: 44px; 
+  margin-left: 23px;
+  margin-top: 13px;
+}
+
+#pginadecad {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 700px;
+  min-height: 100vh;
+  background-color: #3D3E44;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 40px;
+  margin-left: 158px;
+}
+
+#faaseucada {
+  margin-top: 45px;
+  color: #ffffff;
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+#nomecomple{
+  margin-top: 20px;
+  
+}
+#name, #email, #date, #password, #password_2{
+  margin-top: 20px;
+  color: #ffffff;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400
+} 
+
+.name, .email, .date, .password, .password_2{
+  width: 375px;
+  height: 44px;
+  border-radius: 2px;
+  border: 0;
+  outline: none;
+}
+
+#check{
+  margin-top: 20px;
+  color: #ffffff;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400px;
+}
+
+.checkbox{
+  cursor: pointer;
+}
+
+#fluentWind button{
+  width: 200px;
+  height: 32px;
+  background-color:  #ffc831;
+  background-blend-mode: normal;
+  margin-top: 36px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  transition: all .5s ease-out;
+}
+
+#fluentWind button:hover{
+  background-color:  #dfc274e1;
+  border: none;
+}
+
+#ticket img{
+  margin-left: 380px;
+  width: 266px;
+  margin-top: -46px;
+}
+
+#cine{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #3d13e7;
+}
+
+#cine img {
+  width: 780px;
+  height: 780px;
+}
+
+.errorInput {
+  width: 375px;
+  margin-top: 10px;
+  color: #ffffff;
+  background-color: red;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400
+  
+}
